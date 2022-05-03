@@ -1,6 +1,4 @@
 from datetime import datetime
-from gettext import install
-from tracemalloc import start
 from booking.booking import Booking
 
 
